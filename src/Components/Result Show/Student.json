@@ -1,0 +1,652 @@
+[
+    {
+        " id ": 1,
+        "PERSONAL": {
+            "rollNo": 123456789,
+            "name": "ISHWAR",
+            "DOB": "19/10/1999",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 78,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 89,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 75,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 65,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 65,
+                " PRACTICALMARKS ": 24,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 90,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 2,
+        "PERSONAL": {
+            "rollNo": 123456790,
+            "name": "RAHUL",
+            "DOB": "20/09/1999",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 85,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 69,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 87,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 35,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 45,
+                " PRACTICALMARKS ": 21,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 49,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 3,
+        "PERSONAL": {
+            "rollNo": 123456791,
+            "name": "RAVI",
+            "DOB": "09/11/1998",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 87,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 48,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 58,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 78,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 45,
+                " PRACTICALMARKS ": 23,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 46,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 4,
+        "PERSONAL": {
+            "rollNo": 123456792,
+            "name": "KAILASH",
+            "DOB": "19/04/2000",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 57,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 46,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 35,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 12,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 55,
+                " PRACTICALMARKS ": 18,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 56,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 5,
+        "PERSONAL": {
+            "rollNo": 123456793,
+            "name": "MAYANK",
+            "DOB": "12/11/1989",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 57,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 64,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 45,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 41,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 35,
+                " PRACTICALMARKS ": 20,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 49,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 6,
+        "PERSONAL": {
+            "rollNo": 123456794,
+            "name": "BHUPENDRA",
+            "DOB": "18/12/1999",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 71,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 63,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 52,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 63,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 45,
+                " PRACTICALMARKS ": 14,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 60,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 7,
+        "PERSONAL": {
+            "rollNo": 123456795,
+            "name": "RAJENDRA",
+            "DOB": "17/11/1998",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 82,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 64,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 72,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 43,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 52,
+                " PRACTICALMARKS ": 22,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 68,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 8,
+        "PERSONAL": {
+            "rollNo": 123456796,
+            "name": "KAVI",
+            "DOB": "15/04/1998",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 57,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 67,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 47,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 17,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 27,
+                " PRACTICALMARKS ": 21,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 39,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 9,
+        "PERSONAL": {
+            "rollNo": 123456797,
+            "name": "ARVIND",
+            "DOB": "14/06/1996",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 90,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 91,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 95,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 99,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 70,
+                " PRACTICALMARKS ": 24,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 98,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    },
+    {
+        " id ": 10,
+        "PERSONAL": {
+            "rollNo": 123456798,
+            "name": "LALIT",
+            "DOB": "14/11/1999",
+            "Image": "Images/myimage.jpeg"
+        },
+        "MARKS": [
+            {
+                " id ": 1,
+                " SUBNAME ": "HINDI",
+                " MARKS": 72,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 2,
+                " SUBNAME ": "ENGLISH",
+                " MARKS": 82,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 3,
+                " SUBNAME ": "SANSKRIT",
+                " MARKS": 84,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 4,
+                " SUBNAME ": "MATHEMATICS",
+                " MARKS": 89,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            },
+            {
+                " id ": 5,
+                " SUBNAME ": "SCIENCE",
+                " MARKS": 57,
+                " PRACTICALMARKS ": 23,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 25,
+                " MINPRACTICAL ": 8
+            },
+            {
+                " id ": 6,
+                " SUBNAME ": "SOCIALSCIENCE",
+                " MARKS": 86,
+                " PRACTICALMARKS ": null,
+                " MAXMARK ": 100,
+                " MINTHEORY ": 33,
+                " MINPRACTICAL ": null
+            }
+        ]
+    }
+]
