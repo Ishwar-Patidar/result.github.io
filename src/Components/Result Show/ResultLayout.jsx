@@ -35,7 +35,7 @@ const ResultLayout = () => {
         <>
             <div className="container main_container  ">
                 <div className="row d-flex justify-content-center ">
-                    <div className="col-md-6 d-flex justify-content-center form_container">
+                    <div className="col-md-6 mt-5 d-flex justify-content-center form_container">
                         <div className="row d-flex justify-content-center">
                             <div className="col-md-8">
                                 <input
